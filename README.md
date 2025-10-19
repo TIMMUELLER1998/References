@@ -37,5 +37,3 @@ Die Ergebnisse zeigen, wie Machine-Learning-Ansätze helfen können, komplexe ak
 ---
 
 *Autor: Tim Müller*  
-*Kontakt: [deine E-Mail oder LinkedIn-Link]*  
-
