@@ -22,8 +22,9 @@ Die Ergebnisse zeigen, dass der RALE-Fragebogen eine moderate Vorhersagekraft f�
 ---
 
 ## Wissenschaftliche Arbeit  
-**Titel:** *Ein Deep Embedded Clustering Framework f체r Soundscapes in Wohnr채umen und dessen empirische Auswertung der affektiven Beurteilung*  
-**Kurs:** Audio Data Science (9. Semesterprojekt)  
+**Titel:** *Ein Deep Embedded Clustering Framework f체r Soundscapes in Wohnr채umen und dessen empirische Auswertung der affektiven Beurteilung* 
+**Institution:** Hochschule D체sseldorf (University of Applied Sciences D체sseldorf) 
+**Kurs:** Audio Data Science  
 **Betreuer:** Prof. Dr. Jochen Steffens, Prof. Dr. Florian Huber  
 **Jahr:** 2024  
 
